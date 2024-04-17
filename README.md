@@ -1,4 +1,4 @@
-# Projeto Desafio Intensivão do curso Explorer da Rocketseat
+# Desafio Intensivão do curso Explorer da Rocketseat
 <p>
     <img src="http://img.shields.io/static/v1?label=LICENSE&message=MIT&color=green"/>
     <img src="http://img.shields.io/static/v1?label=VERSION&message=2.0&color=blue"/>
